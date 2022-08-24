@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\bin\Debug\net6.0\Task01FindPositiveNumber.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\bin\Debug\net6.0\Task01FindPositiveNumber.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\bin\Debug\net6.0\Task01FindPositiveNumber.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\bin\Debug\net6.0\Task01FindPositiveNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\bin\Debug\net6.0\Task01FindPositiveNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\refint\Task01FindPositiveNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\Task01FindPositiveNumber.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task01FindPositiveNumber\obj\Debug\net6.0\ref\Task01FindPositiveNumber.dll
