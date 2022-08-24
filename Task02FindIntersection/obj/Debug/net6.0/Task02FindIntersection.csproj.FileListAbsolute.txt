@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\bin\Debug\net6.0\Task02FindIntersection.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\bin\Debug\net6.0\Task02FindIntersection.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\bin\Debug\net6.0\Task02FindIntersection.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\bin\Debug\net6.0\Task02FindIntersection.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\bin\Debug\net6.0\Task02FindIntersection.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\refint\Task02FindIntersection.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\Task02FindIntersection.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks006\HomeWorks006\Task02FindIntersection\obj\Debug\net6.0\ref\Task02FindIntersection.dll
